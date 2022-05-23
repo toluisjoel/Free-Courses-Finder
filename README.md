@@ -1,5 +1,5 @@
 # Frontendmentor.io free courses finder
-  A python that gets all the free courses on[frontendmentor.io](https://www.frontendmentor.io/resources) since they don't have a filter button.
+  A python script that gets all the free courses on [frontendmentor.io](https://www.frontendmentor.io/resources) since they don't have a filter button.
 
 ### Prerequisites
 
