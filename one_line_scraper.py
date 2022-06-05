@@ -1,3 +1,6 @@
+# This code is completely for fun,
+# just wanted to see how readable/unreadable the c0de will be
+
 import requests
 from bs4 import BeautifulSoup
 
